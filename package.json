@@ -1,0 +1,10 @@
+{
+  "name": "node-basic-structure",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "~1.0.1",
+    "express": "~4.0.0",
+    "fs": "0.0.2",
+    "lodash": "^3.9.3"
+  }
+}
